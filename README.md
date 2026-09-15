@@ -120,6 +120,7 @@ A computer vision system that classifies coconuts as **mature or immature** usin
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-hariful-marvan-t-h-a7ab96a0/)
 - 💻 [GitHub](https://github.com/Marvan-TH)
+- 📧 [Gmail](mailto:mhmarvan10@gmail.com)
 
 ---
 
