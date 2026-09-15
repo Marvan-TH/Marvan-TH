@@ -114,22 +114,7 @@ A computer vision system that classifies coconuts as **mature or immature** usin
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marvan-TH&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvan-TH&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Marvan-TH&theme=tokyonight&hide_border=true">
-</p>
-
----
 
 ## 📫 Connect With Me
 
